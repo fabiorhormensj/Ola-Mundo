@@ -1,2 +1,2 @@
-# Ola Mundo
- first versioned repository
+# Hello World!
+ My first versioned repository.
